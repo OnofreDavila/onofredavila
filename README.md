@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Soy Ingniero de Produccion y  desarrollador front-end, con conocimientos en HTML, CSS y JavaScript.
+Actualmente  soy estudiante de Tecnico analista programador.
 <!--
 **OnofreDavila/onofredavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
