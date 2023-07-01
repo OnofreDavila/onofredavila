@@ -2,7 +2,7 @@
 Desarrollador front-end & Ingeniero de Produccion Industrial.
 
 Estudiante Tecnico Analista Programador.
-Tengo 6 años de experiencia y trabajo actualmente en el rubro industrial de alimentos, curiosidad a la tecnologia me ha impulsado a una enseñanza como inicio autodidacta, mediante libros, cursos online y documentacion logre domimnar HTML, CSS 5, JAVASCRIPT.
+Tengo 6 años de experiencia y trabajo actualmente en el rubro industrial de alimentos, la curiosidad a la tecnologia me ha impulsado a una enseñanza autodidacta, en el cual logre domimnar HTML, CSS 5, JAVASCRIPT.
 
 en Mayo de este año 2023, inicie mis estudios de tecnico analista programador.
 
