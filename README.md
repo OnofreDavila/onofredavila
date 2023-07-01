@@ -1,6 +1,15 @@
 ### Hi there 👋
-Soy Ingniero de Produccion y  desarrollador front-end, con conocimientos en HTML, CSS y JavaScript.
-Actualmente  soy estudiante de Tecnico analista programador.
+Desarrollador front-end & Ingeniero de Produccion Industrial.
+
+Estudiante Tecnico Analista Programador.
+Tengo 6 años de experiencia y trabajo actualmente en el rubro industrial de alimentos, curiosidad a la tecnologia me ha impulsado a una enseñanza como inicio autodidacta, mediante libros, cursos online y documentacion logre domimnar HTML, CSS 5, JAVASCRIPT.
+
+en Mayo de este año 2023, inicie mis estudios de tecnico analista programador.
+
+A continuacion podran observar los proyectos que he realizado durante mi aprendizajes. 
+
+
+
 <!--
 **OnofreDavila/onofredavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
