@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Onofre, Davila</h1>
-<h3 align="center">A frontend developer and Production Engineer.</h3>
+<h3 align="center">A programmer analyst student, front-end programmer and Production Engineer.</h3>
 
-- 🌱 I’m currently learning **javascript, reactJS**
+- 🌱 Current management **javascript, html, css, sass y gulp, modelamiento base de datos y sql.**
 
-- 💬 Ask me about **html, css and javascript**
+- 💬 Ask me about **html, css and javascript, modelamiento de bases de datos y sql**
 
 - 📫 How to reach me **onofrej14@gmail.com**
 
