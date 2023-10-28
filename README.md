@@ -28,6 +28,8 @@
 <h3 align="left">Proyectos Javascript</h3>
 
 - 🌱 https://onofredavila.github.io/CarritoDeCompra/
+  
+- 🌱 https://onofredavila.github.io/ValidacionFormularioEmail/
 <!--
 **OnofreDavila/onofredavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
