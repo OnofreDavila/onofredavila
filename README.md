@@ -27,6 +27,8 @@
   
 <h3 align="left">Proyectos Javascript</h3>
 
+- 🌱 https://onofredavila.github.io/CotizadorSeguro/ 
+
 - 🌱 https://onofredavila.github.io/CarritoDeCompra/
   
 - 🌱 https://onofredavila.github.io/ValidacionFormularioEmail/
