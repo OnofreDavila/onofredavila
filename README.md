@@ -17,25 +17,27 @@
 
 <h3 align="left">Proyectos HTML, CSS, SASS y GULP</h3>
 
-- 🌱 https://onofredavila.github.io/FestivalDeMusica/
+- 🌱 Festival de Musica: https://onofredavila.github.io/FestivalDeMusica/
 
-- 🌱 https://onofredavila.github.io/BlogDeCafe/
+- 🌱 Blog de Cafe: https://onofredavila.github.io/BlogDeCafe/
 
-- 🌱 https://onofredavila.github.io/FrontEndStore/
+- 🌱 Tienda de Ropa: https://onofredavila.github.io/FrontEndStore/
 
-- 🌱 https://onofredavila.github.io/MiPrimerProyecto/
+- 🌱 Mi Primer Proyecto: https://onofredavila.github.io/MiPrimerProyecto/
   
 <h3 align="left">Proyectos Javascript</h3>
 
-- 🌱 https://onofredavila.github.io/CotizadorSeguro/
+- 🌱 Cotizador de seguro (javaScript y Prototype): https://onofredavila.github.io/CotizadorSeguro/
 
-- 🌱 https://onofredavila.github.io/CarritoDeCompra/
+- 🌱 Registro y calcular gastos de presupuesto (javaScript y POO): https://onofredavila.github.io/CalcularGastos/ 
+
+- 🌱 Carrito de compra (javaScript y LocalStorage): https://onofredavila.github.io/CarritoDeCompra/
   
-- 🌱 https://onofredavila.github.io/ValidacionFormularioEmail/
+- 🌱 Validacion de formulario (javaScript): https://onofredavila.github.io/ValidacionFormularioEmail/
   
-- 🌱 https://onofredavila.github.io/Buscador/
+- 🌱 Buscador (javaScript): https://onofredavila.github.io/Buscador/
   
-- 🌱 https://onofredavila.github.io/Notas/
+- 🌱 Notas (javaScript): https://onofredavila.github.io/Notas/
 <!--
 **OnofreDavila/onofredavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
