@@ -27,6 +27,8 @@
   
 <h3 align="left">Proyectos Javascript</h3>
 
+- 🌱 Administrador de Citas (javaScript POO): 
+
 - 🌱 Cotizador de seguro (javaScript y Prototype): https://onofredavila.github.io/CotizadorSeguro/
 
 - 🌱 Registro y calcular gastos de presupuesto (javaScript y POO): https://onofredavila.github.io/CalcularGastos/ 
