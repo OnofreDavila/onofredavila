@@ -3,7 +3,7 @@
 
 - 🌱 Current management **javascript, python, html, css, sass y gulp, sql, mongoDB.**
 
-- 💬 Ask me about **html, css and javascript, modelamiento de bases de datos y sql**
+- 💬 Ask me about **html, css, javascript y python, modelamiento de bases de datos, sql y pl/sql**
 
 - 📫 How to reach me **onofrej14@gmail.com**
 
