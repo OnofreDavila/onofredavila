@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onofre, Davila</h1>
-<h3 align="center">A programmer analyst student, front-end programmer and Production Engineer.</h3>
+<h3 align="center">A programmer analyst, front-end programmer and Production Engineer.</h3>
 
 - 🌱 Current management **javascript, python, html, css, sass y gulp, sql, mongoDB.**
 
